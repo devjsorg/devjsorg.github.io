@@ -3,7 +3,7 @@ layout: post
 title:  "Free Programming Interactive Tutorials"
 author: sal
 categories: [ Javascript, tutorial ]
-image: assets/images/learncode.jpg
+image: assets/images/learncode.png
 ---
 
 ### Index
