@@ -2,7 +2,7 @@
 layout: post
 title: CSS Dark, Light mode switch in CSS 
 subtitle: How to create a Dark, Light mode switch in CSS 
-image: "img/hello_world.jpeg"
+image: "assets/images/hello_world.jpeg"
 tags:
 - Embedded
 - IoT

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Skins for JW Player
-image: "img/projects-bg.jpg"
+image: "assets/images/projects-bg.jpg"
 ---
 
 ### 1. [Tube skin](https://codecanyon.net/item/tube-skin-retina-for-jw7/18213167)

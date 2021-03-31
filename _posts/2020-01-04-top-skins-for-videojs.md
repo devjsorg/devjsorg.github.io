@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 18 Skins for Video.js
-image: "img/projects-bg.jpg"
+image: "assets/images/projects-bg.jpg"
 ---
 
 ### 1. [Flat skin](https://codecanyon.net/item/flat-skin-retina-for-jw-player/12752001)
