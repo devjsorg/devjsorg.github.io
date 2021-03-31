@@ -3,7 +3,7 @@ layout: post
 title:  "Front-end Resources"
 author: sal
 categories: [ Javascript, tutorial ]
-image: assets/images/1.jpg
+image: assets/images/learntocode.jpg
 ---
 
 ### HTML / CSS
