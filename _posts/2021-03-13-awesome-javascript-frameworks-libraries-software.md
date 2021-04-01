@@ -1005,3 +1005,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 * [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 * [zxlie/WeixinApi](https://github.com/zxlie/WeixinApi) - 专门用于微信公众平台的Javascript API
+
+-----
+### Reference
+[https://github.com/uhub/awesome-javascript](https://github.com/uhub/awesome-javascript)
