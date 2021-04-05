@@ -17,7 +17,7 @@ authors:
     name: John Smith
     display_name: John S.
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+    email: tanvd357@gmail.com
     web: https://devjsorg.github.io
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   jMaster:
@@ -25,7 +25,7 @@ authors:
     display_name: jMaster
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: tanvd357@gmail.com
     web: https://devjsorg.github.io
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
