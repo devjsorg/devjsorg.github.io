@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free Programming Interactive Tutorials"
-author: sal
+author: john
 categories: [ Javascript, tutorial ]
 image: assets/images/learncode.png
 ---

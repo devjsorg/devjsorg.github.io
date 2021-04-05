@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Awesome JavaScript frameworks, libraries and software"
-author: sal
+author: john
 categories: [ awesome, javaScript, frameworks, libraries, software. ]
 image: assets/images/13.jpg
 ---

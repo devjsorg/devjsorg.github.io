@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Front-end Resources"
-author: sal
+author: john
 categories: [ Javascript, tutorial ]
 image: assets/images/learntocode.jpg
 ---
